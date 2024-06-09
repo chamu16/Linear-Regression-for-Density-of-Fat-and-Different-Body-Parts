@@ -16,7 +16,7 @@ The relationship between body density and various body measurements is crucial f
 
 
 
-## Conclusion
+## Result and Discussion
 
 ●	The multiple linear regression model explains a significant portion of the variance in body density (R-squared = 0.9555).
 
