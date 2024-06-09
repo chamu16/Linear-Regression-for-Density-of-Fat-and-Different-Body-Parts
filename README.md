@@ -39,4 +39,4 @@ The relationship between body density and various body measurements is crucial f
 
 ●	The model assumptions of linearity, homoscedasticity, and normality of residuals are reasonably met, indicating the validity of the regression results.
 
-●	The findings suggest that body fat percentage is the primary determinant of body density among the variables considered in this study. Further research could explore the inclusion of additional predictors or the use of more advanced modeling techniques to improve the model's accuracy and generalizability.
+●	The findings suggest that body fat percentage is the primary determinant of body density among the variables considered in this study.
