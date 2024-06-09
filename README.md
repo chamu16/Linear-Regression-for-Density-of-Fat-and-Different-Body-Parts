@@ -16,6 +16,23 @@ The relationship between body density and various body measurements is crucial f
 
 
 
+##
+
+Here is the methodology for the linear regression project with only one subpoint for each main point:
+
+### Methodology
+
+1. **Data Collection**: The dataset for this project is obtained from a reliable source.
+2. **Data Preprocessing**: The dataset is cleaned and preprocessed to ensure that it is in a suitable format for analysis.
+3. **Exploratory Data Analysis (EDA)**: The dataset is analyzed to understand the distribution of variables.
+4. **Model Selection**: The most suitable linear regression model is selected based on the data and the objectives of the analysis.
+5. **Model Estimation**: The selected model is estimated using the dataset.
+6. **Model Evaluation**: The performance of the model is evaluated using various metrics such as R-squared.
+7. **Model Interpretation**: The regression coefficients are interpreted to understand the relationship between the predictors and the target variable.
+8. **Model Refining**: The model is refined by addressing any issues or limitations identified during the evaluation and interpretation stages.
+
+
+
 ## Result and Discussion
 
 ●	The multiple linear regression model explains a significant portion of the variance in body density (R-squared = 0.9555).
